@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="33cb23c54e5e4e578c76ca746dd924bb" Name="Diagram1" ZoomLevel="55">
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Almacenamiento" Width="1.5" PointX="3" PointY="61.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.AlmacenamientoBodega" Width="1.5" PointX="5.25" PointY="97.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.AlmacenamientoProducto" Width="1.5" PointX="8.25" PointY="94.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Asentamiento" Width="1.5" PointX="5.25" PointY="161" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Basurero" Width="1.5" PointX="3" PointY="70.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.BasureroSucursal" Width="1.5" PointX="15.75" PointY="102.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Bodega" Width="1.5" PointX="3" PointY="74.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.BodegaEquipoLimpieza" Width="1.5" PointX="5.25" PointY="104.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.BodegaEstante" Width="1.5" PointX="8.25" PointY="104.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Bolsa" Width="1.5" PointX="3" PointY="78.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.BolsaSucursal" Width="1.5" PointX="15.75" PointY="106.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Caja" Width="1.5" PointX="3" PointY="82.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.CajaDinero" Width="1.5" PointX="5.25" PointY="108.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.CajaEmpleado" Width="1.5" PointX="18" PointY="111.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Cliente" Width="1.5" PointX="6" PointY="120.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Contrato" Width="1.5" PointX="21" PointY="126.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Dinero" Width="1.5" PointX="3" PointY="90.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Empleado" Width="1.5" PointX="15.75" PointY="137.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.EmpleadoTurno" Width="1.5" PointX="18" PointY="159.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.EquipoLimpieza" Width="1.5" PointX="5.25" PointY="156.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.EquipoSeguridad" Width="1.5" PointX="3" PointY="98.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.EquipoSeguridadSucursal" Width="1.5" PointX="15.75" PointY="116.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.EquipoVigilancia" Width="1.5" PointX="3" PointY="102.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.EquipoVigilanciadSucursal" Width="1.5" PointX="15.75" PointY="121.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Estacionamiento" Width="1.5" PointX="3" PointY="106.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Estado" Width="1.5" PointX="3" PointY="110.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.EstadoCivil" Width="1.5" PointX="3" PointY="114.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Estante" Width="1.5" PointX="3" PointY="118" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.EstanteProducto" Width="1.5" PointX="8.25" PointY="122.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Estudio" Width="1.5" PointX="3" PointY="122.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Etiqueta" Width="1.5" PointX="3" PointY="126" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.EtiquetaProducto" Width="1.5" PointX="5.25" PointY="124.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Luce" Width="1.5" PointX="3" PointY="129.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.LucesSucursal" Width="1.5" PointX="18.75" PointY="123.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Maquina" Width="1.5" PointX="5.25" PointY="146.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.MaquinaSucursal" Width="1.5" PointX="18.75" PointY="130" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Marca" Width="1.5" PointX="3" PointY="138.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.MetodoDePago" Width="1.5" PointX="3" PointY="141.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Municipio" Width="1.5" PointX="8.25" PointY="117.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Nacionalidad" Width="1.5" PointX="3" PointY="145.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Oficina" Width="1.5" PointX="5.25" PointY="130.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.PaginaWeb" Width="1.5" PointX="3" PointY="153.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Pedido" Width="1.5" PointX="10.5" PointY="129.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.PedidoProveedor" Width="1.5" PointX="15.75" PointY="132.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Producto" Width="1.5" PointX="8.25" PointY="149.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.ProductoSucursal" Width="1.5" PointX="18.75" PointY="134.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Promocion" Width="1.5" PointX="3" PointY="157.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Proveedor" Width="1.5" PointX="5.25" PointY="151.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.ProveedorPedido" Width="1.5" PointX="15.75" PointY="127.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.ProveedorSucursal" Width="1.5" PointX="7.5" PointY="129.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Publicidad" Width="1.5" PointX="8.25" PointY="156" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Puesto" Width="1.5" PointX="3" PointY="170.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.SalidaDeEmergencia" Width="1.5" PointX="3" PointY="174.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Servicio" Width="1.5" PointX="11.25" PointY="160" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.ServicioSucursal" Width="1.5" PointX="18.75" PointY="138.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Sucursal" Width="1.5" PointX="13.5" PointY="125.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Tarjeta" Width="1.5" PointX="11.25" PointY="120.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.TipoDeAsentamiento" Width="1.5" PointX="3" PointY="182.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.TipoDeMaquina" Width="1.5" PointX="3" PointY="186.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.TipoDeProducto" Width="1.5" PointX="3" PointY="190.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.TipoDeProveedor" Width="1.5" PointX="3" PointY="194" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.TipoDePublicidad" Width="1.5" PointX="3" PointY="197.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.TipoDeServicio" Width="1.5" PointX="3" PointY="201.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.TipoDeTransaccion" Width="1.5" PointX="3" PointY="205.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.TipoEquipoLimpieza" Width="1.5" PointX="3" PointY="208.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Transaccion" Width="1.5" PointX="13.5" PointY="155.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Turno" Width="1.5" PointX="3" PointY="212.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Uniforme" Width="1.5" PointX="21" PointY="121.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Usuario" Width="1.5" PointX="0.75" PointY="107.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ProyectoOxxoModel.Zona" Width="1.5" PointX="3" PointY="216.25" IsExpanded="true" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAlmacenamientoBodegaAlmacenamiento" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAlmacenamientoProductoAlmacenamiento" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAlmacenamientoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAlmacenamientoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAlmacenamientoBodegaBodega" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAlmacenamientoBodegaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAlmacenamientoBodegaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAlmacenamientoProductoProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAlmacenamientoProductoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAlmacenamientoProductoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAsentamientoMunicipio" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAsentamientoTipoDeAsentamiento" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAsentamientoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAsentamientoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKAsentamientoZona" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKSucursalAsentamiento" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBasureroSucursalBasurero" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBasureroUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBasureroUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBasureroSucursalSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBasureroSucursalUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBasureroSucursalUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBodegaEquipoLimpiezaBodega" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBodegaEstanteBodega" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBodegaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBodegaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKSucursalBodega" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBodegaEquipoLimpiezaEquipoLimpieza" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBodegaEquipoLimpiezalUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBodegaEquipoLimpiezaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBodegaEstanteEstante" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBodegaEstanteUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBodegaEstanteUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBolsaSucursalBolsa" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBolsaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBolsaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBolsaSucursalSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBolsaSucursalUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKBolsaSucursalUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKCajaDineroCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKCajaEmpleadoCaja" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKCajaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKCajaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKCajaDineroDinero" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKCajaDineroUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKCajaDineroUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKCajaEmpleadoEmpleado" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKCajaEmpleadoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKCajaEmpleadoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKClienteTransaccion" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKClienteUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKClienteUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTarjetaCliente" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKContratoEmpleado" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKContratoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKContratoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKDineroUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKDineroUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEmpleadoEstadoCivil" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEmpleadoEstudios" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEmpleadoNacionalidad" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEmpleadoPuesto" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEmpleadoSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEmpleadoTurnoEmpleado" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEmpleadoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEmpleadoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKUniformeEmpleado" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEmpleadoTurnoTurno" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEmpleadoTurnoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEmpleadoTurnoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoLimpiezaTipoEquipoLimpieza" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoLimpiezaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoLimpiezaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoSeguridadSucursalEquipoSeguridad" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoSeguridadUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoSeguridadUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoSeguridadSucursalSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoSeguridadSucursalUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoSeguridadSucursalUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoVigilanciadSucursalEquipoVigilancia" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoVigilanciaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoVigilanciaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoVigilanciadSucursalSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoVigilanciadSucursalUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEquipoVigilanciadSucursalUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstacionamientoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstacionamientoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKSucursalEstacionamiento" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstadoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstadoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMunicipioEstado" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstadoCivilUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstadoCivilUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstanteProductoEstante" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstanteUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstanteUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstanteProductoProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstanteProductoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstanteProductoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstudiosUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEstudiosUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEtiquetaProductoEtiqueta" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEtiquetaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEtiquetaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEtiquetaProductoProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEtiquetaProductoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKEtiquetaProductoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKLucesSucursalLuces" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKLucesUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKLucesUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKLucesSucursalSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKLucesSucursalUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKLucesSucursalUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMaquinaSucursalMaquina" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMaquinaTipoDeMaquina" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMaquinaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMaquinaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMaquinaSucursalSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMaquinaSucursalUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMaquinaSucursalUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMarcaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMarcaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProductoMarca" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMetodoDePagoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMetodoDePagoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTransaccionMetodoDePago" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMunicipioUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKMunicipioUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKNacionalidadUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKNacionalidadUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKOficinaPaginaWeb" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKOficinaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKOficinaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKSucursalOficina" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPaginaWebUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPaginaWebUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPedidoProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPedidoProveedorPedido" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPedidoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPedidoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProveedorPedidoPedido" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPedidoProveedorProveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPedidoProveedorUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPedidoProveedorUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProductoPromocion" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProductoSucursalProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProductoTipoDeProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProductoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProductoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTransaccionProducto" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProductoSucursalSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProductoSucursalUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProductoSucursalUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProveedorSucursalSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPromocionUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPromocionUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProveedorPedidoProveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProveedorSucursalProveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProveedorTipoDeProveedor" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProveedorUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProveedorUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProveedorPedidoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProveedorPedidoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProveedorSucursalUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKProveedorSucursalUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPublicidadTipoDePublicidad" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPublicidadUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPublicidadUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPuestoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKPuestoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKSalidaDeEmergenciaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKSalidaDeEmergenciaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKSucursalSalidaDeEmergencia" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKServicioSucursalServicio" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKServicioTipoDeServicio" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKServicioUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTransaccionServicio" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.ServicioUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKServicioSucursalSucursal" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKServicioSucursalUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKServicioSucursalUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKSucursalUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKSucursalUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTarjetaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTarjetaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDeAsentamientoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDeAsentamientoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDeMaquinaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDeMaquinaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDeProductoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDeProductoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDeProveedorUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDeProveedorUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDePublicidadUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDePublicidadUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDeServicioUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDeServicioUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDeTransaccionUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoDeTransaccionUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTransaccionTipoDeTransaccion" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoEquipoLimpiezaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTipoEquipoLimpiezaUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTransaccionUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTransaccionUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTurnoUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKTurnoUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKUniformeUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKUniformeUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKUsuarioUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKUsuarioUsuarioModifica" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKZonaUsuarioCrea" ManuallyRouted="false" />
+        <AssociationConnector Association="ProyectoOxxoModel.FKZonaUsuarioModifica" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
